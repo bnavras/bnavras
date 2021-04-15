@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @bnavras, computer vision engineer
-- 👀 I’m interested in computer vision, machine learning, deep learning, sofware disign and development
-- 🌱 I’m currently learning c++
+- 👋 Hi, I’m @bnavras, computer vision engineer, I teach a computer to see, from research to production
+- 👀 I’m interested in Computer Vision, Machine Learning, Software Design & Development
 
 <!---
 bnavras/bnavras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
